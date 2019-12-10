@@ -73,6 +73,17 @@ options["probability"] = "true"
 
 """ 带参数调用通用文字识别, 图片参数为远程url图片 """
 client.basicGeneralUrl(url, options)
-    ```
-    
- 
+```
+
+输出：
+```
+{
+"log_id": 2471272194,
+"words_result_num": 2,
+"words_result":
+    [
+        {"words": " TSINGTAO"},
+        {"words": "青島睥酒"}
+    ]
+}
+```
