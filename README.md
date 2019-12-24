@@ -30,7 +30,7 @@
 | 解决输入信息时遇到生僻字和拼音障碍问题 | 短语音识别API | 次重要
 
 ### 六、原型
-![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E5%8E%9F%E5%9E%8B.png)
+![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E5%8E%9F%E5%9E%8B1.png)
 
 ### 六、具体运用场景：
 1. 新学期开头，小明买了一大堆新书籍，宿舍里书架放不下了，想要清理掉一批不要的旧书，但是有一本书是买的盗版的条形码扫描不了，此时软件可以使用通用文字识别技术，实现拍照文字识别，方便小明进行书籍文本的录入。
