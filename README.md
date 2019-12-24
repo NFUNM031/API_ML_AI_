@@ -34,11 +34,10 @@
 ## 二、原型
 ### 1.[原型](https://gitee.com/NFUNM031/book_search_pictures/blob/master/%E5%8E%9F%E5%9E%8B.png "原型")
 ![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E5%8E%9F%E5%9E%8B.png)
-### 2.[原型文档]( http://nfunm031.gitee.io/search_prototype_document)
+### 2.[原型文档](  http://nfunm031.gitee.io/prototype_document)
 [下载文档](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E5%AF%BB%E4%B9%A6.rp)
 ### 3.口头操作说明
-打开软件进入首页后可以看到首页下方有“发布”按钮，点击“发布”按钮后弹出窗口可选择“扫条形码卖书“或者”扫图卖书“，对于拥有可用条形码的书籍可以直接扫条形码提取信息（准确率较高）；而对于无条形码可用书籍杂志周边等产品可以选择扫图卖书通过文字识别提取信息（准确率相对较低）。本次主要介绍“扫图卖书”功能，用户点击”扫图卖书“后进入手机本地相册页面选取书籍照片，也可以点击“拍照”功能进行现场拍摄。选中图片后app自动扫描图片内容并直接进入“发布”页面，此时页面里已经自动提取生成了书籍的相关信息，用户确定价格后可以直接发布，也可以手动添加更多信息，以弥补第一次机器提取信息的不足。
-
+见原型文档
 ## 三、产品使用关键AI或机器学习之API的输出入展示
 1. [使用水平](https://gitee.com/NFUNM031/book_search_pictures/blob/master/%E4%BD%BF%E7%94%A8%E6%B0%B4%E5%B9%B3.png "使用水平")
 ![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E4%BD%BF%E7%94%A8%E6%B0%B4%E5%B9%B3.png)
