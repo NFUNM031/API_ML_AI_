@@ -11,15 +11,16 @@
 ## 一、价值主张设计
 ### 1.加值宣言
 - 对于不可以直接扫条形码上传的书籍，在本产品用户可以使用“扫图上传”。本产品调用百度通用文字识别API实现拍照/截图识别功能，实现拍照文字识别、相册图片文字识别和截图文字识别，方便用户进行文本的提取或录入，有效提升产品易用性和用户使用体验。
-- 对于色盲用户，本产品会调用微软的计算机视觉API，以人类可读语言生成整个图像的说明。计算机视觉算法可根据图像中标识的对象生成各种说明。会对说明一一进行评估，并生成置信度。 然后返回一个列表，将置信度从高到低进行排列。
+- 对于色盲用户，本产品会调用微软的计算机视觉API，以人类可读语言生成整个图像的说明。
 ### 2.核心价值宣言
 让社会的闲置书籍资源能够被回收利用
 ### 3.用户痛点宣言
 - 对于旧版珍藏版书或者条形码损坏的书籍无法上传平台
-- 色盲用户无法正确认知图片相关信息
+- 色盲用户无法正确感知彩色图片的相关信息
 ### 4.AI概率性考量：
 - 通用文字识别API：针对图片模糊、倾斜、翻转等情况进行了优化，鲁棒性强，识别速度快，且支持2W+大字库，总体识别准确率高达99%。
-- 计算机视觉API：
+- 计算机视觉API：计算机视觉算法可根据图像中标识的对象生成各种说明。会对说明一一进行评估，并生成置信度。 然后返回一个列表，将置信度从高到低进行排列。
+![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/probability.jpeg)
 ### 5.需求列表
 用户身份：卖家
 
@@ -36,11 +37,11 @@
 
 ## 二、原型
 ### 1.[原型](https://gitee.com/NFUNM031/book_search_pictures/blob/master/%E5%8E%9F%E5%9E%8B.png "原型")
-![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E5%8E%9F%E5%9E%8B.png)
+![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E5%8E%9F%E5%9E%8B.png)
 ### 2.[原型文档](  http://nfunm031.gitee.io/prototype_document)
 [下载文档](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E5%AF%BB%E4%B9%A6.rp)
 ### 3.口头操作说明
 见原型文档
 ## 三、产品使用关键AI或机器学习之API的输出入展示
 1. [使用水平](https://gitee.com/NFUNM031/book_search_pictures/blob/master/%E4%BD%BF%E7%94%A8%E6%B0%B4%E5%B9%B3.png "使用水平")
-![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E4%BD%BF%E7%94%A8%E6%B0%B4%E5%B9%B3.png)
+![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E4%BD%BF%E7%94%A8%E6%B0%B4%E5%B9%B3.png)
