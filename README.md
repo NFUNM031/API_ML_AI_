@@ -50,6 +50,8 @@
 
 ## 二、原型
 ### 1.[原型](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%9B%BE.png "原型")
+- 交互及界面设计——卖家上传发布书籍（百度通用文字识别API）
+- 信息设计——买家搜索书籍信息（计算机视觉API）
 ![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### 2.[原型文档](http://nfunm031.gitee.io/book_finding)
 [下载文档](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E5%AF%BB%E4%B9%A6.rp)
