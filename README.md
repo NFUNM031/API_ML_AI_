@@ -49,8 +49,8 @@
 | 8 | 确认收货评价 | 高 | 无 |
 
 ## 二、原型
-### 1.[原型](https://gitee.com/NFUNM031/book_search_pictures/blob/master/%E5%8E%9F%E5%9E%8B.png "原型")
-![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E5%8E%9F%E5%9E%8B.png)
+### 1.[操作流程图](https://gitee.com/NFUNM031/book_search_pictures/blob/master/%E5%8E%9F%E5%9E%8B.png "原型")
+![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### 2.[原型文档](  http://nfunm031.gitee.io/prototype_document)
 [下载文档](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E5%AF%BB%E4%B9%A6.rp)
 ### 3.口头操作说明
