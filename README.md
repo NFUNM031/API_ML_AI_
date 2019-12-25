@@ -58,5 +58,5 @@
 ### 3.口头操作说明
 见原型文档
 ## 三、产品使用关键AI或机器学习之API的输出入展示
-1. [使用水平](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E4%BD%BF%E7%94%A8%E6%B0%B4%E5%B9%B3.png "使用水平")
-![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E4%BD%BF%E7%94%A8%E6%B0%B4%E5%B9%B3.png)
+1. [使用水平](http://nfunm031.gitee.io/api_usage_level "使用水平")
+2.使用比较分析
