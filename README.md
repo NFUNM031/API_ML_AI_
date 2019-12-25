@@ -49,12 +49,12 @@
 | 8 | 确认收货评价 | 高 | 无 |
 
 ## 二、原型
-### 1.[操作流程图](https://gitee.com/NFUNM031/book_search_pictures/blob/master/%E5%8E%9F%E5%9E%8B.png "原型")
+### 1.[原型](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%9B%BE.png "原型")
 ![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
-### 2.[原型文档](  http://nfunm031.gitee.io/prototype_document)
+### 2.[原型文档](http://nfunm031.gitee.io/book_finding)
 [下载文档](https://github.com/NFUNM031/API_ML_AI_/blob/master/%E5%AF%BB%E4%B9%A6.rp)
 ### 3.口头操作说明
 见原型文档
 ## 三、产品使用关键AI或机器学习之API的输出入展示
-1. [使用水平](https://gitee.com/NFUNM031/book_search_pictures/blob/master/%E4%BD%BF%E7%94%A8%E6%B0%B4%E5%B9%B3.png "使用水平")
+1. [使用水平](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E4%BD%BF%E7%94%A8%E6%B0%B4%E5%B9%B3.png "使用水平")
 ![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E4%BD%BF%E7%94%A8%E6%B0%B4%E5%B9%B3.png)
