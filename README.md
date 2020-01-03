@@ -67,9 +67,9 @@
 #### 百度：![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E7%99%BE%E5%BA%A6%E4%BB%A3%E7%A0%81.png)
 #### 微软：![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E5%BE%AE%E8%BD%AF%E4%BB%A3%E7%A0%81.png)
 - 性价比：百度每日有50000次免费调用量；微软每月5000 个免费事务。免费额度用尽后的收费标准也是百度较划算。
-[百度](https://ai.baidu.com/ai-doc/OCR/9k3h7xuv6)
+#### [百度](https://ai.baidu.com/ai-doc/OCR/9k3h7xuv6)
 ![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E7%99%BE%E5%BA%A6%E6%80%A7%E4%BB%B7%E6%AF%94.png)
-[微软](https://azure.microsoft.com/zh-cn/pricing/details/cognitive-services/computer-vision/)
+#### [微软](https://azure.microsoft.com/zh-cn/pricing/details/cognitive-services/computer-vision/)
 #### 2019/12/25 汇率：1 USD = 7.0035 CNY
 ![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E5%BE%AE%E8%BD%AF%E6%80%A7%E4%BB%B7%E6%AF%94.png)
 #### 综合对比后得出：在文字识别API的应用中，百度较适用。
