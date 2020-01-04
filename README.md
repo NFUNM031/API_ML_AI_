@@ -63,16 +63,29 @@
 1. [使用水平](http://nfunm031.gitee.io/api_usage_level "使用水平")
 2. 使用比较分析
 #### （1）通用文字识别API对比：百度VS微软
-- 成熟度：对比可见百度的精确度比微软的高
+##### 成熟度：对比可见百度的精确度比微软的高
 #### 百度：![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E7%99%BE%E5%BA%A6%E4%BB%A3%E7%A0%81.png)
 #### 微软：![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E5%BE%AE%E8%BD%AF%E4%BB%A3%E7%A0%81.png)
-- 性价比：百度每日有50000次免费调用量；微软每月5000 个免费事务。免费额度用尽后的收费标准也是百度较划算。
+##### 性价比：百度每日有50000次免费调用量；微软每月5000 个免费事务。免费额度用尽后的收费标准也是百度较划算。
 #### [百度](https://ai.baidu.com/ai-doc/OCR/9k3h7xuv6)
 ![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E7%99%BE%E5%BA%A6%E6%80%A7%E4%BB%B7%E6%AF%94.png)
 #### [微软](https://azure.microsoft.com/zh-cn/pricing/details/cognitive-services/computer-vision/)
 #### 2019/12/25 汇率：1 USD = 7.0035 CNY
 ![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E5%BE%AE%E8%BD%AF%E6%80%A7%E4%BB%B7%E6%AF%94.png)
 #### 综合对比后得出：在文字识别API的应用中，百度较适用。
+#### （2） 计算机视觉API对比：微软VS亚马逊
+##### 成熟度：
+- 通过对比可得“Amazon Rekognition 不仅仅能很好地识别主要对象，同时还能识别它周围的目标。例如当人、鸟和家具同时在图像中时，Rekognition 还能提供定性的判断，例如「漂亮」或「可爱」。这令其在最后预测时良好的均衡了主观和客观标签。”和“微软的标签通常层级较高，例如它经常返回「狗」、「犬」或「哺乳动物」，但从不具体反馈为「吉娃娃」或「松饼」。微软同样会将松饼识别为「毛绒玩具」，你可能认为 ResNet 有更好的性能，但也可能该测试受到数据集的影响，所以我建议你进行更鲁棒的测试。”两个结论。（参考链接：https://sdk.cn/news/7611）
+- 除了基本的图像识别功能外，微软还能通过提供图像描述，为弱视用户提供支持。了解 Microsoft 如何将计算机视觉应用到 PowerPoint、Word、Outlook 和 Excel，以便为低视力用户实现图像的自动题注，帮助用户了解周围的世界。为视觉障碍者提供可行性方案是本产品调用计算机视觉API的最小可行目标，所以最终选用微软平台。（资料链接：https://azure.microsoft.com/zh-cn/services/cognitive-services/computer-vision/）
+##### 性价比：微软长期每月5000 个免费事务；而亚马逊免费每月分析 5000 张图像的套餐只持续 12 个月。
+#### [微软](https://azure.microsoft.com/zh-cn/pricing/details/cognitive-services/computer-vision/)
+#### 2019/12/25 汇率：1 USD = 7.0035 CNY
+![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E5%BE%AE%E8%BD%AF%E6%80%A7%E4%BB%B7%E6%AF%94.png)
+#### [亚马逊](https://aws.amazon.com/cn/rekognition/pricing/?nc=sn&loc=4)
+#### 2019/12/25 汇率：1 USD = 7.0035 CNY
+![image](https://github.com/NFUNM031/API_ML_AI_/blob/master/image/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%80%A7%E4%BB%B7%E6%AF%94.png)
+- 综合对比后得出：在计算机视觉API的应用中，微软较合适。
+
 
 
 
